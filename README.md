@@ -9,4 +9,5 @@
 ### To Add To FLV.com/flv-to-mp3:
 -
 -
-
+### To Add To freerip.com/frmmanual/tutorials/what_is_cd_ripping.php:
+- [rip-cd-with-windows-media-player.html](rip-cd-with-windows-media-player.html)
